@@ -1,0 +1,5 @@
+1- Download MingW
+2-edit the following path and run it
+D:\\MingW\\bin\gcc.exe .\main.s
+D:\\MingW\\bin\gcc.exe .\main.s -o main.exe
+.\main.exe
